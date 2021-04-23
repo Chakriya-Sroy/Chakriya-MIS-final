@@ -207,17 +207,17 @@ textarea:focus{
     transform: scale(1.1);
 }
 .pica{
-    background: url(/calculator.png);
+    background: url(calculator.png);
     background-position: center;
     background-size: cover;
 }
 .picb{
-    background: url(/htmltage.jpg);
+    background: url(htmltage.jpg);
     background-position: center;
     background-size: cover;
 }
 .picc{
-    background: url(/Html-Tables.jpg);
+    background: url(Html-Tables.jpg);
     background-position: center;
     background-size: cover;
 }
